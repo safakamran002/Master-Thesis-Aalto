@@ -5,7 +5,7 @@
 This folder contains the **results generated from machine learning models** used in the master's thesis titled:
 
 **“Predicting CO₂ Emissions of Private Transport in Helsinki Region Using Transfer Learning”**  
-_Aalto University – Department of Built Environment_  
+_Aalto University – Department of Geoinformatics_  
 Author: Safa Kamran
 
 ## Contents
